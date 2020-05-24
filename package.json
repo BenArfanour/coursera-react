@@ -1,0 +1,19 @@
+{
+  "name": "coursera-react",
+  "version": "1.0.0",
+  "description": "react certificate on coursera",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenArfanour/coursera-react.git"
+  },
+  "author": "Nour Ben Arfa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenArfanour/coursera-react/issues"
+  },
+  "homepage": "https://github.com/BenArfanour/coursera-react#readme"
+}
